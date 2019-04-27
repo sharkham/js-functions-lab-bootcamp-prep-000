@@ -1,4 +1,4 @@
 // write your code below!
-happyHolidays () => {
+const happyHolidays () => {
   return "Happy holidays!"
-}
+};
