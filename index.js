@@ -1,4 +1,4 @@
 // write your code below!
 happyHolidays () => {
-  return 
+  return "Happy holidays!"
 }
